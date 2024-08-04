@@ -3,7 +3,7 @@
 ![bage](https://img.shields.io/badge/공부-blue)
 
 ### 자격증
-- 🔭 리눅스 마스터
+- 🔭 리눅스 마스터 2급
 - 🌱 정보처리기사 
 - 👯 SQLD
 ---
