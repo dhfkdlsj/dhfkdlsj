@@ -12,4 +12,4 @@
 - 🤔 JPA
 - 💬 JWT
 - 📫 Redis
-- ⚡ 
+- ⚡ SSE
