@@ -6,10 +6,10 @@
 
 ## 🏅GitHub State
 <div align="center">       
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=dhfkdlsj&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A" />
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=dhfkdlsj&theme=default&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=dhfkdlsj&show_icons=true&theme=radical&title_color=1E90FF&bg_color=E6F0FF%border_color=1E90FF&text_color=4682B4&count_private=true&icon_color=104E8B" />
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=dhfkdlsj&theme=default&ring=1E90FF&currStreakLabel=1E90FF&fire=4682B4" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dhfkdlsj&column=4&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=dhfkdlsj&column=4&margin-w=15&margin-h=15&theme=blue)
 
 ## 🛠️ Tech
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
