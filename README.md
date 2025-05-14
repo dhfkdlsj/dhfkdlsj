@@ -14,8 +14,12 @@
 ## 🛠️ Tech
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/spring%20data%20jpa-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/spring%20batch-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
+
 </div>
