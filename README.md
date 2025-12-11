@@ -5,11 +5,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhfkdlsj)](https://solved.ac/dhfkdlsj/)  
 
 ## 🏅GitHub State
-<div align="center">       
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=dhfkdlsj&show_icons=true&theme=radical&title_color=1E90FF&bg_color=E6F0FF%border_color=1E90FF&text_color=4682B4&count_private=true&icon_color=104E8B" />
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=dhfkdlsj&theme=default&ring=1E90FF&currStreakLabel=1E90FF&fire=4682B4" />
-
-![trophy](https://github-profile-trophy.vercel.app/?username=dhfkdlsj&column=4&margin-w=15&margin-h=15&theme=blue)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBkl4Ow)](https://www.git-ranker.com)
 
 ## 🛠️ Tech
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
