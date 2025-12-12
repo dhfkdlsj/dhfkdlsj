@@ -4,7 +4,7 @@
 ## 🏆Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhfkdlsj)](https://solved.ac/dhfkdlsj/)  
 
-## 🏅GitHub State
+## 🏅GitHub Ranker
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBkl4Ow)](https://www.git-ranker.com)
 
 ## 🛠️ Tech
